@@ -4,7 +4,7 @@ The goal of this project is to accurately identify and predict the likelihood of
 
 App Interface - 
 
-![Screenshot 2023-05-02 172230](https://user-images.githubusercontent.com/132292931/235663206-6d2b80e0-0e22-4adc-b0e2-e0c15422191c.png)
+![Screenshot 2023-05-02 211647](https://user-images.githubusercontent.com/132292931/235717534-2aa133c4-4904-4905-ad27-b686ba80248b.png)
 ![Screenshot 2023-05-02 173608](https://user-images.githubusercontent.com/132292931/235663213-c240aa56-b151-468c-8f79-32ce7fa08b54.png)
 
 Deployed on Streamlit - https://burrlin-multiple-dise-multiple-disease-prediction-system-jcb35y.streamlit.app/
