@@ -15,6 +15,7 @@ parkinsons_model = pickle.load(open('trained_parkinsons_model.sav', 'rb'))
 with st.sidebar:
     
     st.image('https://cdn.pixabay.com/photo/2023/01/22/18/53/ai-generated-7737148_960_720.jpg')
+    st.info('Kindly select the disease you wish to detect.')
     
     selected = option_menu('Multiple Disease Prediction System',
                           
