@@ -14,6 +14,8 @@ parkinsons_model = pickle.load(open('trained_parkinsons_model.sav', 'rb'))
 # sidebar for navigation
 with st.sidebar:
     
+    st.image('https://www.onepointltd.com/wp-content/uploads/2020/03/inno2.png')
+    
     selected = option_menu('Multiple Disease Prediction System',
                           
                           ['Diabetes Prediction',
