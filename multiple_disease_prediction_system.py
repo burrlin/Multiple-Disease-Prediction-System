@@ -5,9 +5,9 @@ from streamlit_option_menu import option_menu
 
 # loading the saved models
 
-diabetes_model = pickle.load(open('C:/Users/KIIT/Desktop/Major Project/trained_diabetes_model.sav', 'rb'))
+diabetes_model = pickle.load(open('trained_diabetes_model.sav', 'rb'))
 
-parkinsons_model = pickle.load(open('C:/Users/KIIT/Desktop/Major Project/trained_parkinsons_model.sav', 'rb'))
+parkinsons_model = pickle.load(open('trained_parkinsons_model.sav', 'rb'))
 
 
 
